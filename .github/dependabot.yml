@@ -14,7 +14,6 @@ updates:
     directories:
       - "/"
       - "/docs"
-      - "/test"
     schedule:
       interval: "weekly"
     # To group all Julia dependency updates into a single PR, uncomment the following:

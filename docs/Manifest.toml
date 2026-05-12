@@ -99,7 +99,7 @@ version = "1.11.0"
 
 [[deps.BayesKNN]]
 deps = ["AbstractMCMC", "Distributions", "NearestNeighbors", "Random", "Statistics"]
-path = "/home/sel/areas/projects/2026/bayes_knn/BayesKNN.jl"
+path = ".."
 uuid = "7ac7b2fc-d795-4232-af45-0788aa9f4abc"
 version = "0.1.0"
 
