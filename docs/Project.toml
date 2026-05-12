@@ -1,0 +1,3 @@
+[deps]
+BayesKNN = "7ac7b2fc-d795-4232-af45-0788aa9f4abc"
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
